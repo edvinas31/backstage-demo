@@ -5,8 +5,8 @@ metadata:
   title: Crossplane Kubernetes
   description: Silly description of Crossplane Kubernetes
   annotations:
-    github.com/project-slug: vfarcic/backstage-demo
-    backstage.io/techdocs-ref: dir:. 
+    github.com/project-slug: edvinas31/backstage-demo
+    backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: dot
     backstage.io/kubernetes-namespace: a-team
     backstage.io/kubernetes-label-selector: app.kubernetes.io/name=crossplane-kubernetes
@@ -24,4 +24,4 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: vfarcic
+  owner: edvinas31

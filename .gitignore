@@ -2,3 +2,4 @@
 /backstage-demo*.tgz
 /.env
 /kubeconfig*.yaml
+/token

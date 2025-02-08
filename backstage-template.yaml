@@ -5,7 +5,7 @@ metadata:
   title: Crossplane Kubernetes
   description: Create and Manage Kubernetes Clusters
 spec:
-  owner: vfarcic/crossplane-kubernetes
+  owner: edvinas31/crossplane-kubernetes
   type: service
   parameters:
   - title: Service Selector
